@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4791
+
+SwissCalc is a powerful interactive calculator for programmer whilst inside Vim. SwissCalc wants to achieve two goals:
+
+convenient
+powerful
+
+SwissCalc preserve as mush Vim functionality as possible. You can edit, move, edit, yank expressions for SwissCalc by Vim. It&#039s quite easy to open SwissCalc and edit expressions in Vim. SwissCalc has been tailored to act as a Read Eval Print Loop (REPL) and provides some convenient variables such as last evaluated result, pi, e and functions such as vars(), funcs(), help().
+
+SwissCalc supports three data types: integer, float, string(yes, I am serious). SwissCalc also provides many operations such as bitwise operation, exponention, factorial. SwissCalc is supplied many built-in functions, too. You can all many math functions such as log(), sqrt(), sin(), asin(), many string functions to manipulate string, for example base64 encoding/decoding, md5/sha digest, regular expression, url encoding/decoding, time operattion. If you find that SwissCalc is missing functions that you would like to use, you can define your own functions easily by Python.
+
+See more in https://github.com/lightxue/SwissCalc
+
